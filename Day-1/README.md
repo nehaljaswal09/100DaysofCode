@@ -1,1 +1,4 @@
-"#Day 1 : Arrays + Git\n\n Solved : Two sums, buy/sell stock\n Learned : array traversal, hash maps\n Built : Repo structure + log system" 
+## Day 1 : Arrays + Git
+Solved : Two sums, buy/sell stock
+Learned : array traversal, hash maps
+Built : Repo structure + log system
